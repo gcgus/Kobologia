@@ -6,7 +6,7 @@ Kontakt library created from samples recorded on the RSF Kobol analog synthesize
 
 To use extract the Kobología.zip file and open the file Kobología.nki in Kontakt
 
-To change the waveform use MIDI CC0 or the modulation wheel in Kontakt
+To change the waveform use MIDI CC#1 or the modulation wheel in Kontakt
 
 [ESP]
 
@@ -14,4 +14,4 @@ Librería de Kontakt creada a partir de muestras tomadas del sintetizador analó
 
 Para utilizar descomprimir el archivo Kobología.zip y abrir el archivo Kobología.nki desde Kontakt.
 
-Para cambiar la forma de onda utilizar el control MIDI CC0 o la rueda de modulación de Kontakt.
+Para cambiar la forma de onda utilizar el control MIDI CC#1 o la rueda de modulación de Kontakt.
